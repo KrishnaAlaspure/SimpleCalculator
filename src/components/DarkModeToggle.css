@@ -1,0 +1,18 @@
+.dark {
+  background-image: linear-gradient(to right, #30cfd0 0%, #330867 100%);
+    color: #fff;
+  }
+  .light {
+    background-image: linear-gradient(to right, #00AAFF, #00ff6c);
+    color: #333;
+  }
+  #div1{
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+  }
+  h1{
+    margin-top: 1rem;
+    margin-bottom: -20px;
+    text-align: center;
+  }
