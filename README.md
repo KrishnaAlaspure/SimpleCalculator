@@ -1,7 +1,8 @@
-# Simple Calculator Using Redux
+## Simple Calculator Using Reducer
 
-## This is a React Project for Demo of how to use Reducer .
+### This is a React Project for Demo of how to use Reducer .
 
-### Descrition 
+#### Descrition 
 - This Calculator performs basic mathematic operation with decimal.
-- We have added button to switch between modes.
+- Button to switch between Themes.
+- Added extra funtionality for formating numbers to represents in readable format.
